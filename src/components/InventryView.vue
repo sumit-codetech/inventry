@@ -105,9 +105,7 @@
     }),
 
     created () {
-
       this.initialize()
-     
     },
 
     methods: {
