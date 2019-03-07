@@ -104,14 +104,6 @@
       model:[],
     }),
 
-    computed: {
-     
-    },
-    
-    watch: {
-
-    },
-    
     created () {
 
       this.initialize()
